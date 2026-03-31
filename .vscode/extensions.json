@@ -1,5 +1,7 @@
 {
     "recommendations": [
-        "google-workspace.google-workspace-developer-tools"
+        "myml.vscode-markdown-plantuml-preview",
+        "esbenp.prettier-vscode",
+        "jebbs.plantuml"
     ]
 }
